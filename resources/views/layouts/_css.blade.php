@@ -1,0 +1,1 @@
+<link type="text/css" href="{{ asset('css/app.css') }}" rel="stylesheet">
