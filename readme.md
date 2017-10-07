@@ -20,6 +20,7 @@ This project is by no account a complete project and will be continuously be wor
 - Clone or Download project into your www folder
 - Run composer install to get all necessary packages
 - Make a copy of the .env.example file to and rename it to .env and change the settings to your setup requirements.
+- Run php artisan key:generate
 - Create a database named thato_dev (or rename it to your liking)
 - Run php artisan migrate
 - Run php artisan db:seed
